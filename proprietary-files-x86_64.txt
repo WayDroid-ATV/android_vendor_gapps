@@ -1,0 +1,2 @@
+product/apex/com.google.android.gmssystem.prodvic.apex;APPS=PrebuiltGmsCoreVic
+product/priv-app/Phonesky/Phonesky.apk;PRESIGNED
